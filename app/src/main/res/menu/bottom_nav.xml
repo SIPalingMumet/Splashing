@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:id="@+id/Home"
+        android:icon="@drawable/baseline_add_home_24"/>
+    <item
+        android:title="Pesanan"
+        android:id="@+id/Pesanan"
+        android:icon="@drawable/rv2"/>
+    <item
+        android:title="Bantuan"
+        android:id="@+id/Bantuan"
+        android:icon="@drawable/bv"/>
+    <item
+        android:title="Akun"
+        android:id="@+id/Akun"
+        android:icon="@drawable/pv"/>
+
+
+</menu>
